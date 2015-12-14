@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="gallery_padding">15dp</dimen>
+
+</resources>
